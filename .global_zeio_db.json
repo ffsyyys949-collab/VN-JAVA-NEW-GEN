@@ -1,0 +1,312 @@
+{
+  "users": [
+    {
+      "id": "ZE-OWNER",
+      "username": "ZE.io",
+      "name": "zvn3",
+      "pass": "112007",
+      "password": "112007",
+      "passwordHash": "MTEyMDA3",
+      "role": "owner",
+      "isOwner": true,
+      "isVerified": true,
+      "photo": "https://api.dicebear.com/9.x/initials/svg?seed=yuy",
+      "avatar": "https://api.dicebear.com/9.x/initials/svg?seed=yuy",
+      "bio": "Official Owner & Creator of ZE.io 🚀",
+      "followers": 9999,
+      "createdAt": 1793736669769,
+      "joinedDate": "October 2026",
+      "isAdmin": true,
+      "isVip": true,
+      "vip": true,
+      "vipLevel": "exclusive",
+      "isVipExclusive": true,
+      "adminPermissions": [],
+      "verified": true
+    },
+    {
+      "id": "ZE-TESTA1",
+      "username": "alice_test",
+      "name": "Alice Wonder",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "id": "ZE-TESTB2",
+      "username": "bob_test",
+      "name": "Bob Builder",
+      "password": "password456",
+      "role": "user"
+    },
+    {
+      "id": "ZE-PTXI7J",
+      "username": "cok",
+      "name": "yuy",
+      "pass": "000000",
+      "password": "000000",
+      "passwordHash": "MDAwMDAw",
+      "role": "user",
+      "isOwner": false,
+      "isVerified": false,
+      "photo": "https://api.dicebear.com/9.x/initials/svg?seed=yuy",
+      "avatar": "https://api.dicebear.com/9.x/initials/svg?seed=yuy",
+      "bio": "Hey there! I am using ZE.io.",
+      "followers": 0,
+      "createdAt": 1793736595691,
+      "joinedDate": "October 2026",
+      "isAdmin": false,
+      "adminPermissions": [],
+      "vip": false,
+      "isVip": false,
+      "isVipExclusive": false,
+      "vipExpiresAt": 0,
+      "isSuspended": false
+    },
+    {
+      "id": "ZE-YQ3MWP",
+      "username": "haaa",
+      "name": "heu",
+      "pass": "000000",
+      "password": "000000",
+      "passwordHash": "MDAwMDAw",
+      "role": "user",
+      "isOwner": false,
+      "isVerified": false,
+      "photo": "https://api.dicebear.com/9.x/initials/svg?seed=heu",
+      "avatar": "https://api.dicebear.com/9.x/initials/svg?seed=heu",
+      "bio": "Hey there! I am using VNJAVA.",
+      "followersCount": 0,
+      "createdAt": 1795534044798,
+      "joinedDate": "October 2026",
+      "isAdmin": false,
+      "adminPermissions": [],
+      "vip": false,
+      "isVip": false,
+      "isVipExclusive": false,
+      "vipExpiresAt": 0,
+      "isSuspended": false
+    }
+  ],
+  "friendRequests": {
+    "ZE-OWNER": [],
+    "ZE-YQ3MWP": []
+  },
+  "friendships": {
+    "ZE-OWNER": [
+      "ZE-RF1NJP",
+      "ZE-YQ3MWP"
+    ],
+    "ZE-RF1NJP": [
+      "ZE-OWNER"
+    ],
+    "ZE-YQ3MWP": [
+      "ZE-OWNER"
+    ]
+  },
+  "stories": [
+    {
+      "id": "story_ZE-YQ3MWP_item_1795534070409_q72y",
+      "userId": "ZE-YQ3MWP",
+      "userName": "heu",
+      "userPhoto": "https://api.dicebear.com/9.x/initials/svg?seed=heu",
+      "createdAt": 1795534071208,
+      "expiresAt": 0,
+      "items": [
+        {
+          "id": "item_1795534070409_q72y",
+          "type": "image",
+          "url": "/uploads/stories/stories_ZE-YQ3MWP_1795534071208_aydz.jpg",
+          "quality": "720p",
+          "caption": "",
+          "timestamp": 1795534070421,
+          "viewers": [
+            {
+              "userId": "ZE-OWNER",
+              "name": "zvn3",
+              "photo": "https://api.dicebear.com/9.x/initials/svg?seed=yuy",
+              "viewedAt": 1795534080751
+            }
+          ],
+          "likes": [
+            {
+              "userId": "ZE-OWNER",
+              "name": "zvn3",
+              "likedAt": 1795534082073
+            }
+          ],
+          "likesCount": 0,
+          "bgStyle": "",
+          "textColor": ""
+        }
+      ]
+    }
+  ],
+  "chats": [
+    {
+      "id": "ZE-OWNER_ZE-YQ3MWP",
+      "chatId": "ZE-OWNER_ZE-YQ3MWP",
+      "type": "direct",
+      "participants": [
+        "ZE-OWNER",
+        "ZE-YQ3MWP"
+      ],
+      "participantsInfo": {
+        "ZE-OWNER": {
+          "name": "zvn3",
+          "photo": "https://api.dicebear.com/9.x/initials/svg?seed=yuy"
+        },
+        "ZE-YQ3MWP": {
+          "name": "heu",
+          "photo": "https://api.dicebear.com/9.x/initials/svg?seed=heu"
+        }
+      },
+      "lastMessage": "Foto dikirim",
+      "lastTime": 1795534111102,
+      "updatedAt": 1795534111102,
+      "lastSenderId": "ZE-OWNER"
+    },
+    {
+      "id": "ZE-OWNER_ZE-RF1NJP",
+      "chatId": "ZE-OWNER_ZE-RF1NJP",
+      "type": "direct",
+      "participants": [
+        "ZE-OWNER",
+        "ZE-RF1NJP"
+      ],
+      "participantsInfo": {
+        "ZE-OWNER": {
+          "name": "zvn3",
+          "photo": "https://api.dicebear.com/9.x/initials/svg?seed=akun"
+        },
+        "ZE-RF1NJP": {
+          "name": "yy7",
+          "photo": "https://api.dicebear.com/9.x/initials/svg?seed=yy7"
+        }
+      },
+      "lastMessage": "Mulai percakapan",
+      "lastTime": 1793786586768,
+      "updatedAt": 1793786586768,
+      "lastSenderId": "ZE-OWNER"
+    },
+    {
+      "chatId": "ZE-TESTA1_ZE-TESTB2",
+      "id": "ZE-TESTA1_ZE-TESTB2",
+      "participants": [
+        "ZE-TESTA1",
+        "ZE-TESTB2"
+      ],
+      "lastMessage": "Halo Alice, pesan kamu masuk di HP 2 realtime!",
+      "updatedAt": 1793165641322,
+      "lastTime": 1793165641322
+    }
+  ],
+  "messages": {
+    "ZE-TESTA1_ZE-TESTB2": [
+      {
+        "chatId": "ZE-TESTA1_ZE-TESTB2",
+        "senderId": "ZE-TESTA1",
+        "senderName": "Alice Wonder",
+        "text": "Halo Bob dari HP 1!",
+        "type": "text",
+        "id": "msg_1793165641319_t67g8",
+        "createdAt": 1793165641319
+      },
+      {
+        "chatId": "ZE-TESTA1_ZE-TESTB2",
+        "senderId": "ZE-TESTB2",
+        "senderName": "Bob Builder",
+        "text": "Halo Alice, pesan kamu masuk di HP 2 realtime!",
+        "type": "text",
+        "id": "msg_1793165641322_fh4el",
+        "createdAt": 1793165641322
+      }
+    ],
+    "ZE-TESTB2_ZE-TESTA1": [
+      {
+        "chatId": "ZE-TESTA1_ZE-TESTB2",
+        "senderId": "ZE-TESTA1",
+        "senderName": "Alice Wonder",
+        "text": "Halo Bob dari HP 1!",
+        "type": "text",
+        "id": "msg_1793165641319_t67g8",
+        "createdAt": 1793165641319
+      },
+      {
+        "chatId": "ZE-TESTA1_ZE-TESTB2",
+        "senderId": "ZE-TESTB2",
+        "senderName": "Bob Builder",
+        "text": "Halo Alice, pesan kamu masuk di HP 2 realtime!",
+        "type": "text",
+        "id": "msg_1793165641322_fh4el",
+        "createdAt": 1793165641322
+      }
+    ],
+    "ZE-OWNER_ZE-RF1NJP": [
+      {
+        "id": "msg_1793735486392_v1na3",
+        "chatId": "ZE-OWNER_ZE-RF1NJP",
+        "senderId": "ZE-OWNER",
+        "senderName": "zvn3",
+        "senderPhoto": "https://api.dicebear.com/9.x/initials/svg?seed=yy7",
+        "text": "p",
+        "type": "text",
+        "createdAt": 1793735486392
+      }
+    ],
+    "ZE-OWNER_ZE-YQ3MWP": [
+      {
+        "id": "msg_1795534061904_4p210",
+        "chatId": "ZE-OWNER_ZE-YQ3MWP",
+        "senderId": "ZE-YQ3MWP",
+        "senderName": "heu",
+        "senderPhoto": "https://api.dicebear.com/9.x/initials/svg?seed=heu",
+        "text": "oii",
+        "type": "text",
+        "createdAt": 1795534061904
+      },
+      {
+        "id": "img_1795534110457_0g2p7",
+        "chatId": "ZE-OWNER_ZE-YQ3MWP",
+        "senderId": "ZE-OWNER",
+        "senderName": "zvn3",
+        "senderPhoto": "https://api.dicebear.com/9.x/initials/svg?seed=yuy",
+        "type": "image",
+        "mediaUrl": "data:image/jpeg;base64,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",
+        "createdAt": 1795534110457
+      }
+    ]
+  },
+  "notes": {},
+  "musicHistory": {
+    "ZE-OWNER": [
+      {
+        "id": "tt_1793645186044",
+        "title": "“别用那种怜悯的眼神看着我。一个一心复仇的人不需要同情。” \"Đừng nhìn tôi bằng đôi mắt thương hại đó. Kẻ mang danh phục hận không cần sự đồng cảm.\" #narutoshippuden #sasuke #sasukeuchiha #douyin ",
+        "author": "羅希姆",
+        "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o4qR1FEQQBgqLepfu9FcOVVTS2umWEADDB3RCz~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=8596&refresh_token=e4e5044f&x-expires=1793728800&x-signature=720qzJyDzQ2Uj%2FecoMnffN41tVY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=1d1a97fc&idc=useast5&biz_tag=tt_video&s=AWEME_DETAIL&sc=cover",
+        "videoUrl": "https://v16m.tiktokcdn-us.com/1085a29c8616d493e6af7f49771ce03b/6ae92ef1/video/tos/alisg/tos-alisg-pve-0037c001/oISRzpEVmEDdeOc2EuuL9ZgQDfAzFBg1TB1q3I/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=1342&ft=74~WHDDwNkkVQQdGuIOnsd0yNBZqYl6GIG2jhWLrK&mime_type=video_mp4&rc=OjMzZmQ5ZmdpaGVkPGk8NUBpanRmd3M5cjVxZDMzODczNEA2XzJgMjFfXzUxNGE0Nl9gYSNoZ25kMmRza2dhLS1kMWBzcw%3D%3D&vvpl=1&l=2026110218462774FD3108462F45268AA3&btag=e000b8000",
+        "audioUrl": "https://v16-ies-music.tiktokcdn-us.com/ad10f65e5b8f6447b0fda9543bd2c1c2/6af21543/video/tos/alisg/tos-alisg-v-27dcd7/ogQBKCBViC2IM2igpGKCqVbfQd8JBeUXVIBLJR/?a=583965&bti=OTg7QGo5QHM6OjZALTAzYCMvcCMxNDNg&&bt=125&ft=7g~atDDwNkkVQQdGuIOnsd0yNBZqYl6GIG2jhWLrK&mime_type=audio_mpeg&rc=NjhkNzQ3PDNlMzM2M2Q1OEBpM2Q8NXY5cnl1ODMzODU8NEAzLjQ0YzU2XjMxMS9gL2JhYSMyL2E1MmRjYmJhLS1kMS1zcw%3D%3D&vvpl=1&l=2026110218462774FD3108462F45268AA3&btag=e00088000&shp=d05b14bd&shcp=-",
+        "url": "https://v16m.tiktokcdn-us.com/1085a29c8616d493e6af7f49771ce03b/6ae92ef1/video/tos/alisg/tos-alisg-pve-0037c001/oISRzpEVmEDdeOc2EuuL9ZgQDfAzFBg1TB1q3I/?a=1233&bti=OUBzOTg7QGo6OjZAL3AjLTAzYCMxNDNg&&bt=1342&ft=74~WHDDwNkkVQQdGuIOnsd0yNBZqYl6GIG2jhWLrK&mime_type=video_mp4&rc=OjMzZmQ5ZmdpaGVkPGk8NUBpanRmd3M5cjVxZDMzODczNEA2XzJgMjFfXzUxNGE0Nl9gYSNoZ25kMmRza2dhLS1kMWBzcw%3D%3D&vvpl=1&l=2026110218462774FD3108462F45268AA3&btag=e000b8000",
+        "source": "tiktok",
+        "sourceType": "tiktok",
+        "sourceUrl": "https://vt.tiktok.com/ZSp1cTbcJ/",
+        "createdAt": 1793645186051
+      }
+    ]
+  },
+  "profileLikes": {},
+  "profileFollows": {},
+  "chatReadStatus": {
+    "ZE-OWNER_ZE-RF1NJP_ZE-OWNER": 1793786587024,
+    "ZE-OWNER_ZE-YQ3MWP_ZE-YQ3MWP": 1795534059993,
+    "ZE-OWNER_ZE-YQ3MWP_ZE-OWNER": 1795534105997
+  },
+  "posts": [],
+  "groups": [],
+  "communities": [],
+  "chatPreferences": {},
+  "vnPanelConfig": {
+    "file90": null,
+    "fileBypass": null
+  }
+}
